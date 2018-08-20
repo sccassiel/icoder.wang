@@ -1,11 +1,11 @@
 # 头部菜单，title: link
 menu:
   Whoami: /whoami
-  Github: https://github.com/Fechin
-  Twitter: https://twitter.com/FechinLi
+  Github: https://github.com/sccassiel
+  Twitter: https://twitter.com/andy32082490
 
 # 是否显示目录
-TOC: false
+TOC: true
 
 # 是否自动播放音乐
 autoplay: false
