@@ -37,7 +37,7 @@ Hexo是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（�
 
 ### 自定义域名 
 
-可以将以上Github Pages通过自定义域名访问，在此，我以阿里云域名为例，其他服务商类似，通过在<code>source</code>文件夹新建CNAME文件，文件内容为<code>icoder.wang</code>,因为我的域名是这个，这儿你设置成你的域名。然后在阿里云域名解析中，设置CNAME解析，如下图：
+可以将以上Github Pages通过自定义域名访问，在此，我以阿里云域名为例，其他服务商类似，通过在<code>source</code>文件夹新建CNAME文件，文件内容为<code>icoder.wang</code>,因为我的域名是这个，这儿你设置成你的域名。然后在阿里云域名解析中，设置CNAME解析，如下图：
     ![ssl](hexobuild/cname.jpg)
 
 ### gittalk评论插件
